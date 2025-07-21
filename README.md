@@ -3,17 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Smart Home Automation System</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; margin: 0; padding: 20px; }
-    h1, h2, h3 { color: #333; }
-    code { background: #eee; padding: 2px 4px; border-radius: 3px; }
-    pre { background: #eee; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    ul { margin-top: 0; }
-    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    th { background-color: #f2f2f2; }
-  </style>
 </head>
 <body>
   <h1>Smart Home Automation System with Voice Control</h1>
